@@ -98,7 +98,7 @@ Open preprocessing.ipynb and run all cells to:
 The model was evaluated using a confusion matrix, showing good performance across all supported languages. TF-IDF helps capture language-specific vocabulary patterns, and MultinomialNB handles text classification efficiently.
 
 💡 Future Improvements
-Add support for more languages (e.g., Hindi, Japanese, Chinese)
+Add support for more languages (e.g.Japanese, Chinese)
 
 Integrate FastText or XLM-Roberta for larger-scale detection
 
@@ -107,11 +107,11 @@ Build REST API with Flask or FastAPI
 Deploy app online with Streamlit Cloud / Hugging Face Spaces
 
 Author
-Prakash L Waddar
+Narasimha M Pai
 
 AI & Data Science Enthusiast | Full Stack Developer
 
-LinkedIn: https://www.linkedin.com/in/prakash-l-waddar/
-GitHub: https://github.com/prakashwaddar628
+LinkedIn: https://www.linkedin.com/in/narasimhapai04/
+GitHub: https://github.com/painarasimha
 
 ✉️ Feel free to reach out if you're interested in collaborating on other projects or need assistance with implementation.
